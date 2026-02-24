@@ -17,7 +17,7 @@ button {
 }
 
 button:hover {
-  background-color: rgba(0, 255, 255, 0.781);
+  background-color: #79a8a9;
   color: #fff;
   cursor: pointer;
 }
@@ -36,8 +36,8 @@ button:hover {
   width: 400px;
   min-height: 200px;
   padding: 8px;
-  border-radius: 8px;
   margin: 8px;
+  border-radius: 8px;
 }
 
 .complete-area {
@@ -45,8 +45,8 @@ button:hover {
   width: 400px;
   min-height: 200px;
   padding: 8px;
-  border-radius: 8px;
   margin: 8px;
+  border-radius: 8px;
   background-color: #c9dede;
 }
 
